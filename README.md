@@ -35,4 +35,5 @@ The system is built using three main nodes:
   - Sends multiple AddTask requests  
   - Queries task status  
 
-Video File : assignment-4-malek_e2pmQu3S.mp4  
+Video File : [Click here to watch the video](assignment-4-malek_e2pmQu3S.mp4)
+ 
